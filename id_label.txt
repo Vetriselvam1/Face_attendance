@@ -1,0 +1,2 @@
+0 inidecard
+1 vetri_id
